@@ -1,0 +1,104 @@
+*{
+    margin:0 ;
+    padding: 0;
+    box-sizing:border-box ;
+    font-family: 'poppins' , sans-serif ;
+}
+.first{
+    width: 100%;
+   
+    background-image: linear-gradient(rgba(12,3,51,0.3),rgba(12,3,51,0.3));
+    position: relative;
+    padding: 0 5%;
+    display: ;
+    align-items: center;
+    justify-content: center;
+}
+.intro{
+    width: 100%;
+    height: 500px;
+    background-color:  aqua;
+    border-bottom-left-radius: 130px ;
+    border-bottom-right-radius: 130px ;
+}
+
+.know us{
+    width: 100%;
+    height: 500px;
+    background-color:  rgb(1, 58, 58);
+    margin-top: 50px;
+    border-top-left-radius: 130px ;
+    border-top-right-radius: 130px ;
+}
+.organization{
+    width: 100%;
+    height: 500px;
+    background-color:  rgb(1, 58, 58);
+    margin-top: 50px;
+    border-radius: 130px;
+}
+.community{
+    width: 100%;
+    height: 500px;
+    background-color:  rgb(10, 188, 31);
+    margin-top: 50px;
+    border-top-left-radius: 130px ;
+    border-top-right-radius: 130px ;
+}
+.second{
+    width: 100%;
+    height: 500px;
+    background-color:  rgb(6, 185, 185);
+    margin-top: 50px;
+    border-bottom-right-radius:130px ;
+    border-bottom-left-radius: 130px;
+   
+    
+}
+.contact{
+    padding: 5px;
+    max-width: 960px ;
+    width: 95%;
+    margin: 20px auto;
+}
+header{
+    padding: 0 15px;
+    text-align: center;
+    font-size:25px;
+}
+.columns{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin: 5px 0;
+}
+.column{
+    flex: 1;
+    border: 1px solid #666;
+    margin: 2px;
+    padding: 10px;
+    background: #3af4d5;
+    transition: 0.3s;
+}
+.column:first-child{
+    margin-left: 0;
+    background: #ff307f;
+}
+.column:last-child{
+    margin-left: 0;
+    background: #7f95d1;
+}
+@media screen {
+    .columns .column {
+        margin-bottom:5px ;
+        flex-basis: 40%;
+    }
+    .columns .column :last-child {
+        flex-basis: 40%;
+        margin: 0;
+    }
+    .columns .column :nth-last-child(2){
+         margin-right: 0;
+    }
+
+}
