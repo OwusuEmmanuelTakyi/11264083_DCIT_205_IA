@@ -6,9 +6,10 @@
 }
 
 .about{
+   
     height: 500px;
     width: 100%;
-    background-color: rgb(9, 122, 122);
+    overflow: hidden;
     text-align: center ;
     padding-top: 250px;
     
@@ -23,6 +24,16 @@
     font-size: 24px;
     
  }
+ .about video {
+  position: absolute;
+  top: 0;
+  left: 1;
+  transform: translate(-50%, -50%);
+  
+  width: auto;
+  height: auto;
+  z-index: -1; /* Move the video behind the text */
+}
 
 .welcome h1{
     color: black;
