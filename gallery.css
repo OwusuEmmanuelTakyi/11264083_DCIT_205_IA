@@ -1,52 +1,54 @@
-/* Reset default margin/padding and apply a basic layout */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-  
-  body {
+}
+
+body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     color: #333;
-  }
-  
-  header {
+}
+
+header {
     background-color: #007bff;
     color: white;
     text-align: center;
     padding: 20px 0;
-  }
-  
-  .gallery {
+}
+
+.gallery {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
     padding: 20px;
-  }
-  
-  .image {
+}
+
+.image {
     border-radius: 5px;
     overflow: hidden;
-  }
-  
-  .image img {
+}
+
+.image img {
     width: 100%;
-    height: auto;
+    height: 100px; 
+    object-fit: cover; 
     display: block;
     transition: transform 0.3s ease-in-out;
-  }
-  
-  .image img:hover {
+}
+
+.image img:hover {
     transform: scale(1.1);
-  }
-  
-  footer {
+}
+
+footer {
     text-align: center;
     padding: 10px 0;
     background-color: #333;
     color: white;
-  }
+}
+
   /* Additions to CSS for image overlay and hover effect */
 
 /* ... (previous CSS rules) */
