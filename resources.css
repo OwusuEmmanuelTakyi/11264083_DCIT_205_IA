@@ -18,7 +18,10 @@ body {
   
   main {
     padding: 20px;
+    align-content: center;
+    text-align: center;
   }
+  
   
   .resource-category {
     margin-bottom: 20px;
@@ -51,4 +54,39 @@ body {
     bottom: 0;
     width: 100%;
   }
-  
+  /* Resource categories styling */
+.resource-category {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 30px;
+}
+
+.resource-category h2 {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 15px;
+  text-align: center;
+}
+
+.resource-category ul {
+  list-style: none;
+  padding-left: 0;
+  text-align: center;
+}
+
+.resource-category ul li {
+  margin-bottom: 10px;
+}
+
+.resource-category ul li a {
+  text-decoration: none;
+  color: #008cba;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+.resource-category ul li a:hover {
+  color: #005f73;
+}
