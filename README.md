@@ -37,6 +37,17 @@ To clone and set up the project, follow these steps:
 # Author Information
 Name: [OWUSU EMMANUEL TAKYI]
 Student ID: [11264083]
-Screenshots
-Home Page
+
+
+# SCREENSHOTS
+
+# home
+![Reference Image](/screenshots/homeshot.png)
+
+# about
+![Reference Image](/screenshot/aboutshot.png)
+
+# contact us 
+![Reference Image](/screenshots/contactusshot.png)
+
 
