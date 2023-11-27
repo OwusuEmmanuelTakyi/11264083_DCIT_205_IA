@@ -57,3 +57,20 @@ Student ID: [11264083]
 ![](/screenshots/staffprofile.png)
 
 
+# What I have learn in this project
+Technical Skills: Throughout this project, I deepened my understanding of HTML, CSS, and JavaScript/React. I was able to implement specific features, such as [mention features], which significantly expanded my skill set.
+
+Responsive Design: I learned to create a user-friendly and responsive design, ensuring that the website maintains its functionality and aesthetics across various devices. It challenged me to consider different viewport sizes and adapt the layout accordingly.
+
+Problem-Solving: I encountered various challenges, such as [specific challenges], which pushed me to explore alternative solutions. This process enhanced my problem-solving abilities and resourcefulness in finding solutions.
+
+Collaboration and Version Control: Working with version control tools like Git allowed me to collaborate effectively. I learned the importance of clear communication within a team and gained insights into managing code conflicts and merging changes.
+
+User Experience (UX): Focusing on user experience, I aimed to create an intuitive navigation structure and improve readability. This involved [explain actions taken for enhancing UX].
+
+Time Management: Managing project deadlines and tasks taught me valuable lessons in time management. I prioritized tasks efficiently to ensure progress while meeting project milestones.
+
+Documentation and Communication: Creating a comprehensive README document and maintaining clear communication facilitated a better understanding of the project's goals and processes. It highlighted the significance of documentation in project development.
+
+Future Enhancements: 
+Reflecting on this project, I've identified potential areas for improvement or additional features. These include [mention potential enhancements], demonstrating a proactive approach to ongoing development.
