@@ -42,12 +42,18 @@ Student ID: [11264083]
 # SCREENSHOTS
 
 # home
-![Reference Image](/screenshots/homeshot.png)
+![](/screenshots/homeshot.png)
 
 # about
-![Reference Image](/screenshot/aboutshot.png)
+![](/screenshot/aboutshot.png)
 
 # contact us 
-![Reference Image](/screenshots/contactusshot.png)
+![](/screenshots/contactusshot.png)
+
+# home now
+![](/screenshots/homenow.png)
+
+# staff profile
+![](/screenshots/staffprofile.png)
 
 
